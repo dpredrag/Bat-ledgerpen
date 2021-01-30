@@ -103,7 +103,7 @@
     "hapi-swagger": "^11.0.1",
     "http-request-signature": "0.0.2",
     "moment": "^2.22.1",
-    "mongodb": "^3.3.3",
+    "mongodb": "^3.6.3",
     "monk": "^7.1.1",
     "monotonic-timestamp": "0.0.9",
     "netmask": "1.0.6",
