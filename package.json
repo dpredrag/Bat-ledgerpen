@@ -90,7 +90,7 @@
     "bs58check": "^2.0.2",
     "bson": "1.0.5",
     "country-list": "1.1.0",
-    "cron-parser": "2.4.1",
+    "cron-parser": "2.18.0",
     "cryptiles": "4.1.2",
     "currency-codes": "1.1.2",
     "dotenv": "^4.0.0",
