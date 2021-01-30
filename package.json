@@ -68,8 +68,8 @@
   },
   "homepage": "https://github.com/brave-intl/bat-ledger",
   "dependencies": {
-    "@babel/cli": "^7.6.2",
-    "@babel/node": "^7.6.2",
+    "@babel/cli": "^7.12.10",
+    "@babel/node": "^7.12.10",
     "@hapi/bell": "^11.1.0",
     "@hapi/cookie": "^10.1.2",
     "@hapi/hapi": "^18.4.0",
